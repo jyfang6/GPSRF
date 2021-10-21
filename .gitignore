@@ -1,0 +1,17 @@
+__pycache__/
+log/
+log_dgp/
+.ipynb_checkpoints/
+model/
+data/
+out/
+gcgp/__pycache__/
+utils/__pycache__/
+.DS_Store
+.idea/
+nohup.out
+*.out
+*.sh
+gat.py 
+main_gat.py 
+main_withsparsity.py 
